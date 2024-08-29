@@ -3,12 +3,12 @@
     "name": "Site",
     "icons": [
       {
-        "src": "./Cdemu_192x192.png", 
+        "src": "assets/Cdemu_192x192.png", 
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "./Icon_Bird_512x512.png",  
+        "src": "assets/Icon_Bird_512x512.png",  
         "sizes": "512x512",
         "type": "image/png"
       }
